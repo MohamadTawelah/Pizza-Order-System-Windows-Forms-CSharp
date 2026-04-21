@@ -4,7 +4,7 @@
 
 ### 🖥️ Application UI
 
-![Pizza App UI](assets/pizza-ui.png)
+<img src="assets/pizza-ui.png.png" width="500">
 
 ---
 
